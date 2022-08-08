@@ -2,8 +2,6 @@
 
 # Math magicians set up
 
-> an api based app to show lastest shows (movies , series)
-
 ## Built With
 
 - HTML
@@ -51,12 +49,6 @@ The application should run in the browser without errors.
 - GitHub: [@Jeanbulambo](https://github.com/Jeanbulambo)
 - Twitter: [@Jeanbulambo](https://twitter.com/Jeanbulambo4)
 - LinkedIn: [@Jeanbulambo](https://www.linkedin.com/in/jean-bulambo-20662a14a/)
-
-👤 **Aaron Abraham**
-
-- GitHub: [@Aaron](https://github.com/aron-helu)
-
-- LinkedIn: [@Aaron](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
 
 
 ## 🤝 Contributing
