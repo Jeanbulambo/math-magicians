@@ -34,7 +34,8 @@ Any html and css code editor like Vscode or Vim.
 This is the first project of the Math Magicians application. You will set up the environment and tools needed to develop a React application. In the following projects, you will develop the actual application.
 
 General requirements
-Make sure that there are no linter errors. Remember that this is your first React project and it requires a special linters setup. Check the instructions in the linters-config README.
+Make sure that there are no linter errors. Remember that this is your first React project and it requires a special linters setup. 
+Check the instructions in the linters-config README.
 Make sure that you used correct Gitflow.
 Make sure that you documented your work in a professional way.
 JavaScript requirements
