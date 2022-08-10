@@ -1,0 +1,31 @@
+.main-container {
+  width: 22%;
+  margin-left: 600px;
+  margin-top: 120px;
+}
+
+button {
+  width: 78px;
+  height: 45px;
+  border-style: none !important;
+  margin: 1px;
+}
+
+.btn0 {
+  width: 158px;
+}
+
+.cal-display {
+  width: 95%;
+  height: 40px;
+  background-color: rgb(149, 145, 175);
+  color: white;
+  text-align: end;
+  font-size: 18px;
+  font-weight: bold;
+  border-style: none !important;
+}
+
+.btn-signe {
+  background-color: #e66903cc;
+}
