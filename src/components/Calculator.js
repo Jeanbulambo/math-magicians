@@ -7,20 +7,19 @@ export default class Calculator extends React.Component {
     super(props);
     this.state = {};
     this.handleClick = this.handleClick.bind(this);
-} 
-  
+  }
+
   handleClick = (event) => {
     this.setState((state) => calculate(state, event.target.textContent));
   }
 
   render() {
-
-    const { next, total } = this.state; 
+    const { next, total } = this.state;
     return (
       <div className="main-container">
         <div className="result-container">
-         <span className="cal-display">{next || total || 0}</span>
-          </div> 
+          <span className="cal-display">{next || total || 0}</span>
+        </div>
         <div className="buttons-wrapper">
           <div className="row-one">
             <button variant="text" type="button" onClick={this.handleClick} className="btn1">AC</button>
