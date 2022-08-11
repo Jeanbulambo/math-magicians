@@ -16,13 +16,19 @@ button {
 }
 
 .result-container {
-  width: 22%;
+  width: 21.9%;
+  background-color: rgb(135, 130, 172);
+  text-align: end;
+  font-size: 18px;
+  font-weight: bold;
+  border-style: none !important;
+  height: 40px;
+  padding-top: 13px;
 }
 
 .cal-display {
   width: 100%;
   height: 40px;
-  background-color: rgb(149, 145, 175);
   color: white;
   text-align: end;
   font-size: 18px;
