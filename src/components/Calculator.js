@@ -53,7 +53,7 @@ const Calculator = () => {
             onClick={handleClick}
             className="btn-signe"
           >
-            *
+            ÷
           </button>
         </div>
         <div className="row-two">
@@ -87,7 +87,7 @@ const Calculator = () => {
             onClick={handleClick}
             className="btn-signe"
           >
-            *
+            x
           </button>
         </div>
         <div className="row-three">
