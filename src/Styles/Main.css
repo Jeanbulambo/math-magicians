@@ -8,6 +8,9 @@
   display: flex;
   justify-content: space-between;
   padding-left: 24px;
+  padding-top: 20px;
+  background-color: rgb(223, 217, 217);
+  border-radius: 7px;
 }
 
 .links {
@@ -29,4 +32,20 @@ p {
 
 h2 {
   margin-bottom: 40px;
+  text-decoration: dashed;
+}
+
+a:link,
+a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover,
+a:active {
+  background-color: red;
 }
