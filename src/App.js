@@ -9,7 +9,12 @@ export default class App extends React.Component {
 
   render() {
     return (
-      <Calculator />
+      <div className="app-container">
+        <p> let do some math</p>
+        <div>
+          <Calculator />
+        </div>
+      </div>
     );
   }
 }
