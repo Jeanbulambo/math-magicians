@@ -52,6 +52,8 @@ General requirements
 
 Contributions, issues, and feature requests are welcome!
 
+Maximiliano Ungredda is one of the contributors.
+
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
