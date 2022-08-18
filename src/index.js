@@ -5,9 +5,9 @@ import {
   BrowserRouter as Router, Routes, Route,
 } from 'react-router-dom';
 import App from './App';
-import Navbar from './Navbar';
-import Home from './Home';
-import Quote from './Quote';
+import Navbar from './components/Navbar';
+import Home from './components/Home';
+import Quote from './components/Quote';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

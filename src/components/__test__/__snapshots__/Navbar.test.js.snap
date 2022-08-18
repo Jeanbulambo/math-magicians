@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should renderer 1`] = `
+<nav
+  className="navbar"
+>
+  <span
+    className="nav-title"
+  >
+    Math magicians
+  </span>
+  <div
+    className="links"
+  >
+    <a
+      href="/"
+    >
+      Home
+    </a>
+    <a
+      href="/App"
+    >
+      Calculator
+    </a>
+    <a
+      href="/Quote"
+    >
+      Quote
+    </a>
+  </div>
+</nav>
+`;
