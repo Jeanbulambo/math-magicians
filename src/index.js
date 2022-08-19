@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './Styles/Main.css';
 import {
-  BrowserRouter as Router, Routes, Route,
+  BrowserRouter, Routes, Route,
 } from 'react-router-dom';
 import App from './App';
 import Navbar from './components/Navbar';
@@ -12,13 +12,13 @@ import Quote from './components/Quote';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Router>
+    <BrowserRouter>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/App" element={<App />} />
         <Route path="/quote" element={<Quote />} />
       </Routes>
-    </Router>
+    </BrowserRouter>
   </React.StrictMode>,
 );
